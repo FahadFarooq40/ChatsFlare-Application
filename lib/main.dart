@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:smit_working/whatsapp_Ui/home_view.dart';
+import 'package:smit_working/ChatFare_Ui/home_view.dart';
 
 void main() {
   runApp(const MyApp());

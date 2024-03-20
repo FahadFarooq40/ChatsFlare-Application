@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:smit_working/whatsapp_Ui/Details_view.dart';
+import 'package:smit_working/ChatFare_Ui/details_view.dart';
 
 class HomeView extends StatelessWidget {
   const HomeView({super.key});
